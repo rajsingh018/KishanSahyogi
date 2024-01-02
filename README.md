@@ -8,19 +8,4 @@ Agriculture in India is livelihood for a majority of the population and can neve
 ## Overview
 A Web-App with prediction capabilities using Machine Learning Algorithms that covers attributes affecting a good crop yield. 
 The user needs to input basic attributes like temperature, rainfall, location, and soil condition and submit it. They will directly get a crop recommendation that guarantees high yield. 
-## Important Links
-[Project Video]()
-## Technologies & Tools Used 
-- *`Python`*
-- *`Flask`*
-- *`GitHub`*
-- *`Jupyter Notebook`*
-- *`Machine Learning`*
-## Project Admins 
-[Lakshay Banga](https://github.com/lakshay2000)
 
-[Siddhi Gupta](https://github.com/siddhiiguptaa)
-
-[Harshita Bajaj](https://github.com/Harshita-b)
-
-![Generic badge](https://img.shields.io/badge/CropMantra-TechForGood-orange) [![Generic badge](https://img.shields.io/badge/visit-website-purple)](https://cropmantra.herokuapp.com/)
